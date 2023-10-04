@@ -1,0 +1,15 @@
+C:\Users\junio\Desktop\Projetos\Curso\to_do_list\bin\Debug\net7.0\to_do_list.exe
+C:\Users\junio\Desktop\Projetos\Curso\to_do_list\bin\Debug\net7.0\to_do_list.deps.json
+C:\Users\junio\Desktop\Projetos\Curso\to_do_list\bin\Debug\net7.0\to_do_list.runtimeconfig.json
+C:\Users\junio\Desktop\Projetos\Curso\to_do_list\bin\Debug\net7.0\to_do_list.dll
+C:\Users\junio\Desktop\Projetos\Curso\to_do_list\bin\Debug\net7.0\to_do_list.pdb
+C:\Users\junio\Desktop\Projetos\Curso\to_do_list\obj\Debug\net7.0\to_do_list.csproj.AssemblyReference.cache
+C:\Users\junio\Desktop\Projetos\Curso\to_do_list\obj\Debug\net7.0\to_do_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junio\Desktop\Projetos\Curso\to_do_list\obj\Debug\net7.0\to_do_list.AssemblyInfoInputs.cache
+C:\Users\junio\Desktop\Projetos\Curso\to_do_list\obj\Debug\net7.0\to_do_list.AssemblyInfo.cs
+C:\Users\junio\Desktop\Projetos\Curso\to_do_list\obj\Debug\net7.0\to_do_list.csproj.CoreCompileInputs.cache
+C:\Users\junio\Desktop\Projetos\Curso\to_do_list\obj\Debug\net7.0\to_do_list.dll
+C:\Users\junio\Desktop\Projetos\Curso\to_do_list\obj\Debug\net7.0\refint\to_do_list.dll
+C:\Users\junio\Desktop\Projetos\Curso\to_do_list\obj\Debug\net7.0\to_do_list.pdb
+C:\Users\junio\Desktop\Projetos\Curso\to_do_list\obj\Debug\net7.0\to_do_list.genruntimeconfig.cache
+C:\Users\junio\Desktop\Projetos\Curso\to_do_list\obj\Debug\net7.0\ref\to_do_list.dll

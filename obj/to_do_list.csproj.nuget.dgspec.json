@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\junio\\Desktop\\Projetos\\Curso\\to_do_list\\to_do_list.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\junio\\Desktop\\Projetos\\Curso\\to_do_list\\to_do_list.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\junio\\Desktop\\Projetos\\Curso\\to_do_list\\to_do_list.csproj",
+        "projectName": "to_do_list",
+        "projectPath": "C:\\Users\\junio\\Desktop\\Projetos\\Curso\\to_do_list\\to_do_list.csproj",
+        "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\junio\\Desktop\\Projetos\\Curso\\to_do_list\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\junio\\AppData\\Roaming\\.dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
